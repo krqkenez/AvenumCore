@@ -6,6 +6,6 @@ Namespace: AvenumCore 1.0 - beta release
 API: 3.0.0 (PMMP3)
 Версия bin: 7.2, 7.3 (VDS/VPS - 7.2)
 @author - https://github.com/krqkenez
-@vkgroup - https://vk.com/avenumstudios
-@telegram - https://t.me/rqketa
+vkgroup - https://vk.com/avenumstudios
+telegram - https://t.me/rqketa
 start.sh вместе с этим ядром я положил в комплекте.
